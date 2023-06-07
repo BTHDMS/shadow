@@ -36,3 +36,6 @@ lerna-debug.log*
 
 #yml
 /config.yml
+
+#data
+/nftData
